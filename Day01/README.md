@@ -1,2 +1,1 @@
-Day01/README.md
 Day 1 - Beginner - Working with Variables in Python to Manage Data
