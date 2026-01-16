@@ -2,11 +2,12 @@
 ## Working with Variables in Python to Manage Data
 
 ###  Overview
-On Day 1, I learned the fundamentals of Python programming by working with variables and basic data handling. This day focused on understanding how data is stored, manipulated, and displayed using Python.
+On Day 1, I learned the fundamentals of Python programming by working with variables and basic data handling.
+This day I focused on understanding how data is stored, manipulated, and displayed using Python.
 
 ---
 
-###  Topics Covered
+###  Topics I Covered
 - Printing output using `print()`
 - Taking user input with `input()`
 - Declaring and using variables
@@ -16,7 +17,7 @@ On Day 1, I learned the fundamentals of Python programming by working with varia
 
 ---
 
-###  Concepts Practiced
+###  Concepts I Practiced
 - Storing user input in variables
 - Displaying formatted output
 - Managing simple data flows in a program
