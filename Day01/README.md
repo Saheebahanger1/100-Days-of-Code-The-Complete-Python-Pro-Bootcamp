@@ -32,7 +32,7 @@ On Day 1, I learned the fundamentals of Python programming by working with varia
 ---
 
 ### 📂 Files in This Folder
-- `main.py` – Python code demonstrating variables and input/output operations
+- `day1.py` – Python code demonstrating variables and input/output operations
 
 ---
 
