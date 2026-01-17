@@ -6,7 +6,7 @@ Day 2 focused on learning Python’s core data types and how to work with string
 
 ---
 
-### Topics Covered
+### Topics I Covered
 - Python primitive data types:
   - String (`str`)
   - Integer (`int`)
@@ -21,7 +21,7 @@ Day 2 focused on learning Python’s core data types and how to work with string
 
 ---
 
-### Concepts Practiced
+### Concepts I Practiced
 - Converting data types using `int()`, `float()`, `str()`
 - Accessing individual characters in strings
 - Formatting output using f-strings
