@@ -1,7 +1,5 @@
 # 🐍 100 Days of Code
-
 ## The Complete Python Pro Bootcamp
-
 ### 📅 Journey Start Date: **16 January 2026**
 
 ---
