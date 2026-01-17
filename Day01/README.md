@@ -37,11 +37,5 @@ This day I focused on understanding how data is stored, manipulated, and display
 
 ---
 
-###  Next Steps
-Moving forward, I’ll build on these basics by learning data types, type conversion, and control flow.
-
----
-
  **Challenge Series:** 100 Days of Python  
- **Level:** Beginner
 
