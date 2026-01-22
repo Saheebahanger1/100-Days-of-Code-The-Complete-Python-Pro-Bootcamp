@@ -53,7 +53,7 @@ To create a Hangman game where:
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 * `Day7.py` – Main Hangman game logic & Ascii art 
 
