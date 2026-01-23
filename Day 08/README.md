@@ -11,11 +11,10 @@ This day focused on writing reusable functions and understanding how data flows 
 
 * Understand how function parameters work
 * Learn the difference between positional and keyword arguments
-
-Build a Caesar Cipher program that can:
-* Encrypt text
-* Decrypt text
-* Shift letters based on a user-defined value
+* Build a Caesar Cipher program that can:
+  * Encrypt text
+  * Decrypt text
+  * Shift letters based on a user-defined value
 
 ---
 
@@ -45,7 +44,7 @@ Build a Caesar Cipher program that can:
 
 * Encrypt and decrypt messages
 * Custom shift values
-* Handles wrap-around from z to a
+* Handles wrap-around from `z` to `a`
 * User-friendly command-line interaction
 
 ---
