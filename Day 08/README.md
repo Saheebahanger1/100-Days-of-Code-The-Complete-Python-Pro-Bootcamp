@@ -11,7 +11,8 @@ This day focused on writing reusable functions and understanding how data flows 
 
 * Understand how function parameters work
 * Learn the difference between positional and keyword arguments
-* Build a Caesar Cipher program that can:
+
+Build a Caesar Cipher program that can:
 * Encrypt text
 * Decrypt text
 * Shift letters based on a user-defined value
@@ -51,9 +52,9 @@ This day focused on writing reusable functions and understanding how data flows 
 
 ## Files in This Folder
 
-`Day8.py` – Caesar Cipher implementation and function practice 
+* `Day8.py` – Caesar Cipher implementation and function practice 
 
 ---
 
-**Challenge: 100 Days of Code – The Complete Python Pro Bootcamp**
+**Challenge:** 100 Days of Code – The Complete Python Pro Bootcamp**
 ** Project: Caesar Cipher
