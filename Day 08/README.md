@@ -1,5 +1,7 @@
 # Day 08 – Beginner
+
 ## Function Parameters & Caesar Cipher 
+
 ## Overview 
 
 On **Day 8** of my **100 Days of Code – The Complete Python Pro Bootcamp**, I learned how to **work with function parameters and arguments** and applied these concepts by **building the Caesar Cipher encryption and decryption program**.
