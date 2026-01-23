@@ -58,5 +58,5 @@ This day focused on writing reusable functions and understanding how data flows 
 
 ---
 
-**Challenge:** 100 Days of Code – The Complete Python Pro Bootcamp**
+**Challenge:** 100 Days of Code – The Complete Python Pro Bootcamp
 **Project:** Caesar Cipher
