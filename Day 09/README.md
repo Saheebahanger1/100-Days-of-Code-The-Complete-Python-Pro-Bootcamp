@@ -53,7 +53,7 @@ This day focused on organizing and managing structured data efficiently.
 
 ## Files in This Folder
 
-* `Day.py` – Dictionary practice and Secret Auction implementation
+* `Day9.py` – Dictionary practice and Secret Auction implementation
 
 ---
 
