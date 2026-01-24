@@ -15,9 +15,9 @@ This day focused on organizing and managing structured data efficiently.
 * Understand Python dictionaries and key-value pairs
 * Learn how to nest dictionaries and lists
 * Build a Secret Auction program that:
- * Collects bids anonymously
- * Stores bidder names and bid values
- * Determines the highest bidder automatically
+  * Collects bids anonymously
+  * Stores bidder names and bid values
+  * Determines the highest bidder automatically
 
 ---
 
