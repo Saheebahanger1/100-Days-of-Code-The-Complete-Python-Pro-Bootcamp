@@ -1,7 +1,7 @@
 # Day 10 – Beginner
 ## Functions with Outputs
 
-## Overview
+### Overview
 
 On Day 10 of my **100 Days of Code – The Complete Python Pro Bootcamp**, I learned how to create functions that return values and used them to build more dynamic and reusable Python programs.
 
@@ -9,7 +9,7 @@ This day focused on transforming input data into meaningful output through well-
 
 ---
 
-## Project Objective
+### Project Objective
 
 * Understand the `return` statement in Python
 * Learn how functions send data back to the caller
@@ -18,7 +18,7 @@ This day focused on transforming input data into meaningful output through well-
 
 ---
 
-## Concepts I Covered
+### Concepts I Covered
 
 * Functions with return values
 * Difference between print and return
@@ -29,7 +29,7 @@ This day focused on transforming input data into meaningful output through well-
 
 ---
 
-## What I Learned
+### What I Learned
 
 * How return ends function execution
 * Why returning values makes functions reusable
@@ -39,7 +39,7 @@ This day focused on transforming input data into meaningful output through well-
 
 ---
 
-## Files in This Folder
+### Files in This Folder
 
 `Day10.py` – Practice programs demonstrating functions with outputs
 
