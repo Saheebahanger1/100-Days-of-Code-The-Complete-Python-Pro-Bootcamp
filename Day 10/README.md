@@ -9,7 +9,7 @@ This day focused on transforming input data into meaningful output through well-
 
 ---
 
-Project Objective
+## Project Objective
 
 * Understand the `return` statement in Python
 * Learn how functions send data back to the caller
@@ -18,7 +18,7 @@ Project Objective
 
 ---
 
-Concepts I Covered
+## Concepts I Covered
 
 * Functions with return values
 * Difference between print and return
@@ -29,7 +29,7 @@ Concepts I Covered
 
 ---
 
-What I Learned
+## What I Learned
 
 * How return ends function execution
 * Why returning values makes functions reusable
@@ -39,7 +39,7 @@ What I Learned
 
 ---
 
-Files in This Folder
+## Files in This Folder
 
 `Day10.py` – Practice programs demonstrating functions with outputs
 
