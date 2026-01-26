@@ -38,4 +38,4 @@ This day I focused on understanding how data is stored, manipulated, and display
 ---
 
  **Challenge Series:** 100 Days of Python  
-
+ **Level:** Beginner
