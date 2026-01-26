@@ -42,5 +42,7 @@ Day 2 focused on learning Python’s core data types and how to work with string
 
 ---
 
-**Challenge Series:** 100 Days of Python  
+**Challenge Series:** 100 Days of Python
+
+**Level:** Beginner  
 
