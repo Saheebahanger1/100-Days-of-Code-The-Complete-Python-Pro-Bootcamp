@@ -53,4 +53,5 @@ Day 3 focused on controlling the flow of a Python program using conditional stat
 ---
 
 **Challenge Series:** 100 Days of Code – The Complete Python Pro Bootcamp
+**Level:** Beginner
 
