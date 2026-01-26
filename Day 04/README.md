@@ -46,3 +46,5 @@ Day 4 focused on understanding how randomness works in Python and how lists can 
 ---
 
 **Challenge Series:** 100 Days of Code – The Complete Python Pro Bootcamp.
+
+**Level:** Beginner
