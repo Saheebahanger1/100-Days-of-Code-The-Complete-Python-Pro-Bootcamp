@@ -21,7 +21,7 @@ This capstone project combined everything learned so far into a complete, logic-
 ### Concepts Covered
 
 * Functions and return values
-* Conditional logic (if, elif, else)
+* Conditional logic (`if`, `elif`, `else`)
 * Lists and list operations
 * Random card selection
 * Loops and game flow control
