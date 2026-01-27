@@ -1,6 +1,9 @@
 # Day 11 – Beginner
 ## The Blackjack Capstone Project
-### 📌 Overview
+
+---
+
+### Overview
 
 On Day 11 of my **100 Days of Code – The Complete Python Pro Bootcamp**, I built a command-line **Blackjack game**.
 This capstone project combined everything learned so far into a complete, logic-driven program that simulates the classic casino game.
