@@ -1,8 +1,6 @@
 # Day 12 – Beginner
 ## Scope & Number Guessing Game
 
----
-
 ### Overview
 
 On **Day 12** of my **100 Days of Code – The Complete Python Pro Bootcamp**, I learned about **variable scope in Python** and applied this knowledge by building a **Number Guessing Game**.
