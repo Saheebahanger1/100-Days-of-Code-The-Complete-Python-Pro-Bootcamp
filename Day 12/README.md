@@ -1,7 +1,7 @@
 # Day 12 – Beginner
 ## Scope & Number Guessing Game
 
-### Overview
+## Overview
 
 On **Day 12** of my **100 Days of Code – The Complete Python Pro Bootcamp**, I learned about **variable scope in Python** and applied this knowledge by building a **Number Guessing Game**.
 
@@ -9,7 +9,7 @@ This day focused on understanding how variables behave inside and outside functi
 
 ---
 
-### Project Objective
+## Project Objective
 
 * Understand local vs global scope
 * Learn how Python handles variable lifetime
@@ -18,7 +18,7 @@ This day focused on understanding how variables behave inside and outside functi
 
 ---
 
-### Concepts I Covered
+## Concepts I Covered
 
 * Local scope
 * Global scope
@@ -30,7 +30,7 @@ This day focused on understanding how variables behave inside and outside functi
 
 ---
 
-### What I Learned
+## What I Learned
 
 * Difference between local and global variables
 * How scope prevents unintended variable modification
@@ -40,7 +40,7 @@ This day focused on understanding how variables behave inside and outside functi
 
 ---
 
-### Number Guessing Game Features
+## Number Guessing Game Features
 
 * Random number selection
 * Easy and hard difficulty levels
@@ -50,7 +50,7 @@ This day focused on understanding how variables behave inside and outside functi
 
 ---
 
-📂 Files in This Folder
+## Files in This Folder
 
 `Day12.py` – Scope practice and Number Guessing Game implementation
 
