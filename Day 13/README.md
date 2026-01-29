@@ -1,9 +1,9 @@
-# Day 13 – Beginner
+# **Day 13 – Beginner**
 ## Debugging: How to Find and Fix Errors in Your Code
 
 ## Overview
 
-On **Day 13** of my **100 Days of Code – The Complete Python Pro Bootcamp**, I focused on debugging techniques and learned how to identify, understand, and fix errors in Python programs.
+On **Day 13** of my **100 Days of Code – The Complete Python Pro Bootcamp**, I focused on **debugging techniques** and learned how to identify, understand, and fix errors in Python programs.
 
 This day was about developing a problem-solving mindset rather than building a large project.
 
