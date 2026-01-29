@@ -18,13 +18,13 @@ This day was about developing a **problem-solving mindset** rather than building
 
 ---
 
-## Concepts Covered
+## Concepts I Covered
 
 * Common Python errors:
-* Syntax errors
-* Indentation errors
-* Name errors
-* Type errors
+  * Syntax errors
+  * Indentation errors
+  * Name errors
+  * Type errors
 * Logical errors and unexpected output
 * Using `print()` statements for debugging
 * Step-by-step code tracing
