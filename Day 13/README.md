@@ -1,4 +1,4 @@
-# **Day 13 – Beginner**
+# Day 13 – Beginner
 ## Debugging: How to Find and Fix Errors in Your Code
 
 ## Overview
