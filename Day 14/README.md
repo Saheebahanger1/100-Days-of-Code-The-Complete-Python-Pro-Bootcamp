@@ -3,9 +3,9 @@
 
 ## Overview
 
-On **Day 14** of my **100 Days of Code – The Complete Python Pro Bootcamp**, I built the Higher Lower Game, a command-line game where players compare two entities and guess which one has more followers.
+On **Day 14** of my **100 Days of Code – The Complete Python Pro Bootcamp**, I built the **Higher Lower Game**, a command-line game where players compare two entities and guess which one has more followers.
 
-This project strengthened my understanding of functions, loops, conditionals, and data handling in Python.
+This project strengthened my understanding of **functions, loops, conditionals, and data handling** in Python.
 
 ---
 
