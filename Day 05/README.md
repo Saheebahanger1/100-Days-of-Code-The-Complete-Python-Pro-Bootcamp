@@ -47,4 +47,5 @@ Day 5 focused on understanding and applying **loops in Python** to automate repe
 ---
 
  **Challenge Series:** 100 Days of Code – The Complete Python Pro Bootcamp
+ **Level:** Beginner
 
