@@ -60,3 +60,5 @@ To create a Hangman game where:
 ---
 
 **Challenge:** 100 Days of Code – The Complete Python Pro Bootcamp
+
+**Level:** Beginner
