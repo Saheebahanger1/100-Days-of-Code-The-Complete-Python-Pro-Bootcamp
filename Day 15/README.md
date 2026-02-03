@@ -45,7 +45,7 @@ This day focused on setting up a **local development environment** and rebuildin
 ---
 
 ##  Files in This Folder
-- `Day15.py` – Main program logic, Menu and drink definitions, Resource handling & Payment processing
+- `Day15.py` – **Main program logic, Menu and drink definitions, Resource handling & Payment processing.**
 
 ---
 
