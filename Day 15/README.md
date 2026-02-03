@@ -45,10 +45,7 @@ This day focused on setting up a **local development environment** and rebuildin
 ---
 
 ##  Files in This Folder
-- `main.py` – Main program logic  
-- `menu.py` – Menu and drink definitions  
-- `coffee_maker.py` – Resource handling  
-- `money_machine.py` – Payment processing  
+- `Day15.py` – Main program logic, Menu and drink definitions, Resource handling & Payment processing
 
 ---
 
