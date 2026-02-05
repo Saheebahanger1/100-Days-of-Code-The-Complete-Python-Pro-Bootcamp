@@ -58,5 +58,7 @@ This day focused on organizing and managing structured data efficiently.
 ---
 
 **Challenge:** 100 Days of Code – The Complete Python Pro Bootcamp
+
 **Level:** Beginner
+
 **Project:** Secret Auction
