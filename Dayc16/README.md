@@ -1,4 +1,4 @@
-# Section 16 – Day 16 – Intermediate  
+# Day 16 – Intermediate  
 ## Object Oriented Programming (OOP)
 
 ## Overview
