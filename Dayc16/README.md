@@ -45,7 +45,7 @@ This day marked a major shift from procedural programming to writing **structure
 ---
 
 ## Files in This Folder
-- `main.py` – Main program using OOP concepts  
+- `Day16.py` – Main program using OOP concepts  
 - Supporting class files (e.g. `coffee_maker.py`, `menu.py`, `money_machine.py`)  
 
 ---
