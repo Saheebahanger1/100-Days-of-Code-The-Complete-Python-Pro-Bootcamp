@@ -57,4 +57,6 @@ This capstone project combined everything learned so far into a complete, logic-
 
 **Challenge:** 100 Days of Code – The Complete Python Pro Bootcamp
 
+**Level:** Beginner
+
 **Project:** Blackjack Game
