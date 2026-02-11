@@ -60,4 +60,5 @@ This day focused on understanding how variables behave inside and outside functi
 **Challenge:** 100 Days of Code – The Complete Python Pro Bootcamp
 
 **Level:** Beginner
+
 **Project:** Number Guessing Game
