@@ -1,14 +1,14 @@
 # Day 19 – Intermediate  
 ## Instances, State & Higher Order Functions
 
-## 📌 Overview
+## Overview
 On **Day 19** of my **100 Days of Code – The Complete Python Pro Bootcamp**, I explored how **object instances maintain state**, learned about **higher order functions**, and built interactive programs using **Turtle graphics with event listeners**.
 
 This day focused on writing more dynamic and responsive Python applications.
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 - Understand how object instances store and change state
 - Learn how higher order functions work
 - Use event listeners to trigger actions
@@ -16,7 +16,7 @@ This day focused on writing more dynamic and responsive Python applications.
 
 ---
 
-## 🛠️ Concepts Covered
+## Concepts I Covered
 - Class instances and object state
 - Modifying attributes dynamically
 - Higher order functions
@@ -27,7 +27,7 @@ This day focused on writing more dynamic and responsive Python applications.
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 - How multiple objects created from the same class behave independently
 - How state changes over time within an object
 - Why higher order functions make code more flexible
@@ -36,7 +36,7 @@ This day focused on writing more dynamic and responsive Python applications.
 
 ---
 
-## 🎮 Practice Projects
+## Practice Projects
 - Turtle race game
 - Keyboard-controlled turtle movement
 - Interactive graphics using event listeners
@@ -44,17 +44,12 @@ This day focused on writing more dynamic and responsive Python applications.
 ---
 
 ## 📂 Files in This Folder
-- `main.py` – Interactive Turtle programs  
-- Additional files for race or movement logic (if applicable)
+- `Day19.py` – Interactive Turtle programs  
+- Additional files for race or movement logic.
 
 ---
 
-## 🚀 Next Steps
-Next, I will begin building **larger projects using OOP**, combining state management, user input, and game logic.
-
----
-
-📅 **Challenge:** 100 Days of Code – The Complete Python Pro Bootcamp  
-🐍 **Level:** Intermediate  
-🎯 **Topic:** Instances, State & Higher Order Functions
+ **Challenge:** 100 Days of Code – The Complete Python Pro Bootcamp  
+ **Level:** Intermediate  
+ **Topic:** Instances, State & Higher Order Functions
 
