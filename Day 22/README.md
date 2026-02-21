@@ -1,5 +1,5 @@
 # Day 22 – Intermediate  
-## Build the Turtle Crossing Game 🐢🚗  
+## Build the Turtle Crossing Game  
 
 ## Overview  
 On **Day 22** of my **100 Days of Code – The Complete Python Pro Bootcamp**, I built a **Turtle Crossing Game** using **Python Turtle graphics** and **Object Oriented Programming (OOP)**.
