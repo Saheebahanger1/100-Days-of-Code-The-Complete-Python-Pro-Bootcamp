@@ -4,10 +4,6 @@
 ## Overview  
 On **Day 22** of my **100 Days of Code – The Complete Python Pro Bootcamp**, I built a **Turtle Crossing Game** using **Python Turtle graphics** and **Object Oriented Programming (OOP)**.
 
-This project is inspired by the classic Frogger-style arcade game, where the player must safely cross the road while avoiding moving cars.
-
-This challenge is part of the course by **:contentReference[oaicite:0]{index=0}**.
-
 During this project, I focused on structuring the game using classes, implementing collision detection, level progression, and increasing difficulty mechanics.
 
 ---
