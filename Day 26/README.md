@@ -32,7 +32,7 @@ Day 26 focused on writing more concise and powerful Python code using **list com
 
 ## Files in This Folder
 
-* `Day26.py` – Python programs demonstrating list and dictionary comprehensions
+* `main.py` – Python programs demonstrating list and dictionary comprehensions
 
 ## Challenge Series: 100 Days of Python
 
